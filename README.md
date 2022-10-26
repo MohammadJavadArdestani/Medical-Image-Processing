@@ -1,6 +1,6 @@
 # Medical Image Processing
 
-In this Image processing project, I use a CNN classifier to classify **COVID-19** Infected Lung Xray images from **Healthy** Lung Xray images.
+In this Image processing project, I used a CNN classifier to classify **COVID-19** Infected Lung Xray images from **Healthy** Lung Xray images.
 
 ## Table of Contents
 * [DataSets](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-/edit/main/README.md#datasets)
