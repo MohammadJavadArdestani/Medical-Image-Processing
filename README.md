@@ -37,17 +37,16 @@ Some samples of both groups:
 Test Dataset contains 200 images from both groups. 
 
 Classification results:
-
+```
               precision    recall  f1-score   support
 
            0       0.73      0.95      0.83       200
            1       0.94      0.66      0.77       200
-
     accuracy                           0.81       400
    macro avg       0.84      0.80      0.80       400
 weighted avg       0.84      0.81      0.80       400
+```
 
-
-Confusion matrix: 
+Confusion Matrix: 
 
 <link>
