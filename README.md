@@ -3,10 +3,10 @@
 In this Image processing project, I used a CNN classifier to classify **COVID-19** Infected Lung Xray images from **Healthy** Lung Xray images.
 
 ## Table of Contents
-* [DataSets](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-/edit/main/README.md#datasets)
-* [Deep Learning Model](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-/edit/main/README.md#deep-learning-model)
-* [Evaluation](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-/edit/main/README.md#evaluation)
-<!-- * [Appendix](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-/edit/main/README.md#appendix) -->
+* [DataSets](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-d#datasets)
+* [Deep Learning Model](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-#deep-learning-model)
+* [Evaluation](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-#evaluation)
+<!-- * [Appendix](https://github.com/MohammadJavadArdestani/Medical-Image-Processing-#appendix) -->
 
 ## DataSets
 I selected my dataset from three different sources: 
